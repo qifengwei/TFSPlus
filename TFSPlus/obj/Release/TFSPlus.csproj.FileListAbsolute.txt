@@ -1,0 +1,7 @@
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSPlus\bin\Release\TFSPlus.dll
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSPlus\bin\Release\TFSPlus.pdb
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSPlus\bin\Release\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSPlus\bin\Release\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSPlus\bin\Release\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSPlus\obj\Release\TFSPlus.dll
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSPlus\obj\Release\TFSPlus.pdb

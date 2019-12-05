@@ -1,0 +1,7 @@
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSOperate\bin\Debug\TFSOperate.exe
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSOperate\bin\Debug\TFSOperate.pdb
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSOperate\bin\Debug\TFSPlus.dll
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSOperate\bin\Debug\TFSPlus.pdb
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSOperate\obj\x86\Debug\TFSOperate.csprojResolveAssemblyReference.cache
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSOperate\obj\x86\Debug\TFSOperate.exe
+D:\Qi\C4+\TFSPackage\TFSPlus\TFSOperate\obj\x86\Debug\TFSOperate.pdb
